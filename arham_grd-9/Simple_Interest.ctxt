@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Simple_Interest
+comment1.params=p\ r\ t
+comment1.target=void\ getData(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=double\ calculate()
+comment4.params=
+comment4.target=double\ amount()
+numComments=5

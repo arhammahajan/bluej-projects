@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=run
+comment1.params=
+comment1.target=void\ userChoice()
+comment2.params=a
+comment2.target=void\ digits(int)
+comment3.params=a
+comment3.target=void\ pattern(char)
+numComments=4

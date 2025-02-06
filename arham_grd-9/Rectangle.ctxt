@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=l\ b
+comment1.target=void\ getData(int,\ int)
+comment2.params=
+comment2.target=int\ area()
+comment3.params=
+comment3.target=int\ perimeter()
+comment4.params=
+comment4.target=double\ diagnol()
+comment5.params=
+comment5.target=void\ display()
+numComments=6

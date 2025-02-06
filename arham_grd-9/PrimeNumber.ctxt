@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PrimeNumber
+comment1.params=n
+comment1.target=void\ getNumber(int)
+comment2.params=
+comment2.target=void\ prime()
+comment3.params=
+comment3.target=void\ decide()
+numComments=4

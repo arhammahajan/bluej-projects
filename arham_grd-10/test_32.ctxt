@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=test_32
+comment1.params=
+comment1.target=void\ mm()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=n1\ n2
+comment3.target=int\ calc(int,\ int)
+comment4.params=age\ gender
+comment4.target=void\ ages(int[],\ char[])
+comment5.params=a\ b\ c
+comment5.target=java.lang.String\ join(int,\ int,\ int)
+comment6.params=a\ b\ c
+comment6.target=java.lang.String\ join(char,\ char,\ char)
+comment7.params=n
+comment7.target=void\ reverse(int)
+comment8.params=n
+comment8.target=void\ series(int)
+numComments=9

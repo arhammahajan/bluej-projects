@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=t3
+comment1.params=na
+comment1.target=int\ sumOfArray(int[])
+comment2.params=na
+comment2.target=double\ avgOfArray(int[])
+comment3.params=n
+comment3.target=int\ countfactors(int)
+comment3.text=write\ a\ method\ which\ returns\ all\ the\ single\ digit\ values\ from\r\n\ an\ array\ which\ has\ been\ received\ as\ the\ parameter\r\n\ //22,32,1,4,67,898,6,5\r\n\ returns\ only\ 1,4,5,6\r\n
+comment4.params=n
+comment4.target=int[]\ factors(int)
+comment5.params=nv
+comment5.target=int[]\ displayNumbersUpto(int)
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=arrdataops1
+comment1.params=
+comment1.target=boolean\ checkArrayLength()
+comment2.params=gv
+comment2.target=void\ displayAsPerGender(char)
+comment3.params=
+comment3.target=void\ displaySeniorCitizenNames()
+comment4.params=gv
+comment4.target=void\ displaySeniorCitizenNames(char)
+comment5.params=startalpha
+comment5.target=void\ displayAllDetails(char)
+numComments=6

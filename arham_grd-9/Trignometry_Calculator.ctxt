@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Trignometry_Calculator
+comment1.params=p\ h\ b\ angle
+comment1.target=void\ calculator(float,\ float,\ float,\ char)
+numComments=2

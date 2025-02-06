@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=string_ops_1
+comment1.params=word
+comment1.target=int\ sumOfDigitsInString(java.lang.String)
+comment1.text=eg\ "pass1\ pass2"\ \n\ \ \ \ \ \ sod\=\ 3\n
+comment2.params=word
+comment2.target=int\ sumOfNumbersInAString(java.lang.String)
+comment3.params=
+comment3.target=void\ check()
+numComments=4

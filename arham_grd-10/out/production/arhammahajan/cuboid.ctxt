@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=cuboid
+comment1.params=r\ h\ l
+comment1.target=cuboid(int,\ int,\ double)
+comment2.params=
+comment2.target=void\ show()
+comment3.params=
+comment3.target=double\ tsa()
+comment4.params=
+comment4.target=double\ csa()
+comment5.params=
+comment5.target=double\ v()
+numComments=6

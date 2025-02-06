@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=at3
+comment1.params=n
+comment1.target=void\ createArrays(int)
+comment2.params=na\ sa\ n
+comment2.target=void\ searchInArray(int[],\ java.lang.String[],\ int)
+numComments=3

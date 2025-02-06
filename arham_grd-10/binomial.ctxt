@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=binomial
+comment1.params=n
+comment1.target=long\ fact(long)
+comment2.params=
+comment2.target=void\ compute()
+numComments=3

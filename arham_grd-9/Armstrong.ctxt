@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Armstrong
+comment1.params=x
+comment1.target=int\ decide(int)
+comment2.params=n
+comment2.target=void\ printA(int)
+numComments=3

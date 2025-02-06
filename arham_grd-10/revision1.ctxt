@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=revision1
+comment1.params=line
+comment1.target=void\ charascii(java.lang.String)
+comment2.params=word
+comment2.target=void\ sumOfAscii(java.lang.String)
+comment3.params=sv\ ev
+comment3.target=void\ printCharValue(int,\ int)
+comment4.params=word
+comment4.target=void\ wordStats(java.lang.String)
+comment4.text=\ write\ a\ method\ which\ displays\ the\ vowels\ ,consonants,special\ characters\ and\ digits\ of\ a\ word\r\n\ accepted\ as\ a\ parameter\r\n
+comment5.params=s
+comment5.target=void\ alphaFreq(java.lang.String)
+comment6.params=s
+comment6.target=void\ disVowel(java.lang.String)
+comment7.params=w
+comment7.target=void\ vowFreq(java.lang.String)
+comment8.params=w
+comment8.target=void\ alphaseq(java.lang.String)
+comment9.params=s
+comment9.target=void\ alphafreq2(java.lang.String)
+numComments=10

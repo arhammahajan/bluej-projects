@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=sir_codes
+comment1.params=
+comment1.target=void\ takeOnion()
+comment2.params=a
+comment2.target=void\ convertToString(char[])
+comment3.params=
+comment3.target=boolean\ checkIfCollinear()
+comment4.params=s\ w
+comment4.target=boolean\ checkForWord(java.lang.String,\ java.lang.String)
+comment5.params=a1\ a2
+comment5.target=int[]\ mergeArray(int[],\ int[])
+comment6.params=
+comment6.target=int[]\ array1()
+comment7.params=a
+comment7.target=int[]\ array2(int[])
+comment8.params=n
+comment8.target=void\ mt(int)
+numComments=9

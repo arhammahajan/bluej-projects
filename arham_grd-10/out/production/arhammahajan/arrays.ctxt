@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=arrays
+comment1.params=
+comment1.target=void\ store()
+comment2.params=
+comment2.target=void\ take()
+comment2.text=\r\n\ 4.\ Write\ a\ program\ where\ user\ enters\ 10\ double\ numbers\ from\r\n\ \ \ \ the\ keyboard,\ program\ stores\ the\ information\ in\ an\ array.\ The\r\n\ \ \ \ program\ accepts\ a\ number\ from\ the\ user\ and\ search\ its\ index\r\n\ \ \ \ in\ the\ array.\r\n
+comment3.params=
+comment3.target=void\ combineArray()
+comment4.params=
+comment4.target=void\ average()
+comment4.text=\r\n\ 6.\ Write\ a\ program\ where\ user\ enter\ marks\ and\ frequency\ of\ 10\r\n\ \ \ \ students,\ the\ program\ calculates\:\r\n\ \ \ \ (a)\ Sum\ of\ frequency\r\n\ \ \ \ (b)\ Average\ marks.\r\n
+comment5.params=a
+comment5.target=void\ split(char[])
+comment5.text=\r\n\ 8.\ Write\ a\ program\ where\ user\ enters\ 20\ characters\ numbers,\r\n\ \ \ \ letters\ and\ special\ characters\ from\ the\ user\ and\ stores\ them\ in\r\n\ \ \ \ an\ array.\ Write\ program\ to\r\n\ \ \ \ (a)\ Convert\ these\ characters\ in\ upper\ case\r\n\ \ \ \ (b)\ Splits\ the\ array\ into\ character\ array,\ special\ elements\r\n\ \ \ \ (c)\ Numbers\r\n
+numComments=6

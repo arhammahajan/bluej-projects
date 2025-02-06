@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=pg103
+comment1.params=price
+comment1.target=void\ question1(double)
+comment2.params=tabla\ guitar\ camera
+comment2.target=void\ question2(double,\ double,\ double)
+comment3.params=dayoftheweek
+comment3.target=void\ question3(int)
+comment4.params=L\ M
+comment4.target=void\ question4(int,\ int)
+comment5.params=
+comment5.target=void\ question5()
+numComments=6

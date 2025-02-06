@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=revision
+comment1.params=sampleArray
+comment1.target=void\ takeArray(int[])
+comment10.params=sa
+comment10.target=void\ vowelWords(java.lang.String[])
+comment2.params=sampleArray\ n
+comment2.target=void\ takeArray(int[],\ int)
+comment3.params=sampleArray
+comment3.target=void\ display2Digit(int[])
+comment3.text=rite\ a\ method\ which\ takes\ in\ an\ array\ and\r\n\ \ displays\ all\ the\ 2\ digit\ numbers\r\n
+comment4.params=age\ name\ joiningyear
+comment4.target=void\ details(int[],\ java.lang.String[],\ int[])
+comment5.params=a
+comment5.target=boolean\ sameFirstLast(java.lang.String[])
+comment6.params=a\ c
+comment6.target=boolean\ sameFirstorLast(java.lang.String[],\ java.lang.String[])
+comment6.text=\r\n\ sameFirstOrLastElement()\r\n\ \ \ \ given\ 2\ int\ arrays\ ,\ \ return\ true\ if\ they\ have\ the\ same\ first\ element\r\n\ \ \ \ or\ they\ have\ the\ same\ last\ element.\ \r\n
+comment7.params=a\ c
+comment7.target=boolean\ sameFirstandLast(int[],\ int[])
+comment7.text=\r\n\ sameFirstAndLastElement()\r\n\ \ \ \ given\ 2\ int\ arrays\ ,\ \ return\ true\ if\ they\ have\ the\ same\r\n\ \ \ \ first\ element\ and\ they\ have\ the\ same\ last\ element.\ \r\n
+comment8.params=a\ c
+comment8.target=boolean\ sameArray(int[],\ int[])
+comment9.params=a\ c
+comment9.target=boolean\ sameArray(java.lang.String[],\ java.lang.String[])
+numComments=11

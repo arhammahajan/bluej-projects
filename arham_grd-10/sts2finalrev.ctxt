@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=sts2finalrev
+comment1.params=a
+comment1.target=void\ displaysomeElements(java.lang.String[])
+comment2.params=a
+comment2.target=boolean\ firstlastSame(int[])
+comment3.params=a
+comment3.target=int\ largeroffirstLast(int[])
+numComments=4
